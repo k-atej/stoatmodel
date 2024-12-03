@@ -1,1 +1,3 @@
 # stoatmodel
+
+Invasive stoat populations in New Zealand have been a key factor for the decline of endemic species on the islands since their introduction in the late 19th century. Endemic bird populations have observed the steepest decline with many ground-nesting birds oblivious to this newly introduced predator. The aims of our project are to (1) model the spread and growth of invasive stoat populations on an isolated island in New Zealand, (2) model and determine the optimal number of stoat traps, and (3) expand our model to account for key endemic bird and other prey populations. The combined findings of aims 1-3 will allow us to predict the future status of New Zealand stoat populations and their effects on certain endemic prey populations. 
